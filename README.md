@@ -24,17 +24,17 @@ To run the ChatShot application locally, follow these steps:
 
 5. Upload Chat Export File:
 
-   Once the application is running, upload the exported .txt file of your WhatsApp chat using the file uploader on the sidebar.
+       Once the application is running, upload the exported .txt file of your WhatsApp chat using the file uploader on the sidebar.
 
 6. Analyze Your Chat:
 
-   After uploading the chat file, select the user you want to analyze from the dropdown menu on the sidebar and click on "Show Analysis" to view various insights and visualizations.
+       After uploading the chat file, select the user you want to analyze from the dropdown menu on the sidebar and click on "Show Analysis" to view various insights and visualizations.
 
 7. Interact with the Application:
 
-   Explore the different analysis options provided, such as total messages, word cloud, most common words, emoji analysis, and more.
+       Explore the different analysis options provided, such as total messages, word cloud, most common words, emoji analysis, and more.
 
-**NOTE:** Make sure you have Python installed on your system before following these steps. You can download Python from the official website: python.org.
+       NOTE : Make sure you have Python installed on your system before following these steps. You can download Python from the official website: python.org.
 
 
 
