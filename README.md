@@ -56,7 +56,7 @@ The project utilizes the following Python libraries:
 
 **2. Pandas** : For data manipulation and analysis.
 
-**3. Matplotlib** : [Seaborn](https://seaborn.pydata.org/): For data visualization.
+**3. Matplotlib, Seaborn** : For data visualization.
 
 **4. Regex** : For text pattern matching.
 
