@@ -1,9 +1,14 @@
 import streamlit as st
 import Preprocessor, helper
 import matplotlib.pyplot as plt
-import seaborn as sns
+import seaborn as sns # import seaborn as sns
 
-# import seaborn as sns
+# -----------------------wide page view for default-------------------------------------------------------------------------------------------------
+def wide_space_default():
+    st.set_page_config(layout="wide")
+#----------------------------------------------------------------------------------------------------------------------------------------------------
+
+wide_space_default()
 
 st.sidebar.title("Welcome To ChatShot!")
 st.sidebar.header("A WhatsApp Chat Analyzer")
