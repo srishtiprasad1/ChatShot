@@ -1,6 +1,6 @@
 # ChatShot
 
-The project is focused on analyzing WhatsApp chats exported in text format. It requires the exported chat to follow a 12-hour time format and should be exported without including media files. The analysis includes various insights such as total messages, word count, media usage, links shared, monthly and daily timelines, activity maps, most active users, word clouds, common words, and emoji analysis.
+The project is focused on analyzing WhatsApp chats exported in text format. It requires the exported chat to follow a 24-hour time format and should be exported without including media files. The analysis includes various insights such as total messages, word count, media usage, links shared, monthly and daily timelines, activity maps, most active users, word clouds, common words, and emoji analysis.
 
 # Installation and Usage
 
