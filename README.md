@@ -8,7 +8,7 @@ To run the ChatShot application locally, follow these steps:
 
 1. Clone the repository to your local machine:
    
-       git clone https://github.com/singhsuryanshofficial/OlympicPulse-Harnessing-Olympic-Insights.git
+       git clone https://github.com/srishtiprasad1/ChatShot.git
 
 2. Navigate to the project directory:
 
@@ -34,7 +34,7 @@ To run the ChatShot application locally, follow these steps:
 
    Explore the different analysis options provided, such as total messages, word cloud, most common words, emoji analysis, and more.
 
-NOTE: Make sure you have Python installed on your system before following these steps. You can download Python from the official website: python.org.
+**NOTE:** Make sure you have Python installed on your system before following these steps. You can download Python from the official website: python.org.
 
 
 
